@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-I’m @nicolasdvlp, a fullstack web developper from France- 🔭 Working on multiple frontend and backend project using React and Nodejs.
+I’m Nicolas MATEOS, a fullstack web developper from France- 🔭 Working on multiple frontend and backend project using React and Nodejs.
 
 - 🌱 Learning design patterns in depth
 
